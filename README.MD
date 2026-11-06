@@ -257,8 +257,6 @@ Predicted CIFAR-10 Class
   <img src="images/top5_prediction.jpg" width="600" alt="Sample Prediction">
 </p>
 
-```
-
 ---
 
 ## Learning Outcomes
